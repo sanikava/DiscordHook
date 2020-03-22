@@ -4,3 +4,4 @@
 - Join my discord server if there are any issues or queries: https://discord.gg/HsqYa5x
 
 Python is needed for the program to run.
+All modules needed will be installed on the first launch of the program.
