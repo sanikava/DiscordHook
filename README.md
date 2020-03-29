@@ -5,3 +5,5 @@
 
 Python is needed for the program to run.
 All modules needed will be installed on the first launch of the program.
+
+[![time tracker](https://wakatime.com/badge/github/thomaskeig/DiscordHook.svg)](https://wakatime.com/badge/github/thomaskeig/DiscordHook)
